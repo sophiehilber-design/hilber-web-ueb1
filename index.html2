@@ -8,7 +8,7 @@
 <body>
 
 <h1>Medienseite</h1>
-<p>Das ist meine erste eigene Webseite.</p>
+<p><img src="img/bild1.jpg" width="400"> alt="Person" title="freies Bild"</p>
 
 </body>
 </html>
